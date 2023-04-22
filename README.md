@@ -1,5 +1,5 @@
 # Rutas-y-Transporte
-para quien quiera saber sobre navegación aérea y representación de rutas
+Para quien quiera saber sobre navegación aérea y representación de rutas
 añadiré si alguien me lo pide un código en matlab para manipular los datos usados y representar la ruta en google earth también.
 
 Para responder a un tweet muy ignorante: https://twitter.com/sergiondjr/status/1648326761292132354?t=sS9FbsZzBAesqB7dBpgExA&s=08 he decidido subir la representación de 2 ejemplos de las 2 respectivas rutas que se mencionan en el tweet y su distancia y duración. 
